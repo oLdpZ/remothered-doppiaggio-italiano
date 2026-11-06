@@ -36,7 +36,7 @@ Nessun file del gioco e nessun programma (niente .exe, niente .dll): solo una pa
 
 ## Segnalazioni
 
-Apri una [issue](https://github.com/oLdpZ/remothered-doppiaggio-italiano/issues), oppure Discord **oldpz**. Indica dove sei nel gioco, chi parla e cosa dice (il sottotitolo), e cosa non va. Se il problema è l'installazione, allega `REMT-IT\installazione.log`.
+Solo su GitHub: apri una [issue](https://github.com/oLdpZ/remothered-doppiaggio-italiano/issues). Indica dove sei nel gioco, chi parla e cosa dice (il sottotitolo), e cosa non va. Se il problema è l'installazione, allega `REMT-IT\installazione.log`.
 
 ## Crediti
 
